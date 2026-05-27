@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043C\u043E\u0434\u0443\u043B\u044C\\MKR_OOP_Level2_Task4_Ustych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEE46FE-1F0D-44C2-9F71-E43AA7011766}|MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.vcxproj|C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043C\u043E\u0434\u0443\u043B\u044C\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCEE46FE-1F0D-44C2-9F71-E43AA7011766}|MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.vcxproj|solutionrelative:MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MKR_OOP_Level2_Task4_Ustych.cpp",
+              "DocumentMoniker": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043C\u043E\u0434\u0443\u043B\u044C\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp",
+              "RelativeDocumentMoniker": "MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp",
+              "ToolTip": "C:\\Users\\Ustich\\Desktop\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\3 \u041A\u0423\u0420\u0421\\\u041E\u041E\u041F\\\u043C\u043E\u0434\u0443\u043B\u044C\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp",
+              "RelativeToolTip": "MKR_OOP_Level2_Task4_Ustych\\MKR_OOP_Level2_Task4_Ustych.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-27T17:29:19.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
